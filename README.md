@@ -49,6 +49,7 @@ design or every shop with his own
 Installation
 --------------
 
+[Blog]: http://projects.ruben-storm.eu/easypartnershop/
 Todo, comming soon
 
 
@@ -64,6 +65,10 @@ None yet
 
 Changelog
 --------------
+
+### 0.0.5
+June 1st, 2012
+ * First public Release
 
 ### 0.0.1
 
