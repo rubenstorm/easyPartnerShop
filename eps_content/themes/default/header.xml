@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this template, choose Tools | Templates
+and open the template in the editor.
+-->
+
+
+<theme>
+    <temp>
+        <head>
+            <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+            <title>{header.title}</title>
+            <meta http-equiv="Content-language" content="{header.lang}" />
+            <meta name="keywords" content="{header.keys}" />
+            <meta name="description" content="{header.description}" />
+            <link rel="stylesheet" href="{header.style}" type="text/css" /> 
+        </head>
+    </temp>
+</theme>

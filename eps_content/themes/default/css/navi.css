@@ -1,0 +1,134 @@
+/*
+Template Name: easyPartnerShop
+File: Homepage CSS
+Author: Ruben Storm
+Author URI: http://projects.ruben-storm.eu/
+Licence: GPLv3
+*/
+
+#topbar ul{
+	display:block;
+	float:left;
+	margin:5px 0 0 20px;
+	padding:0;
+	list-style:none;
+	font-size:13px;
+	font-family:Georgia, "Times New Roman", Times, serif;
+	text-transform:uppercase;
+	}
+
+#topbar ul li{
+	float:left;
+	margin-right:30px;
+	}
+
+#topbar ul li li{
+	margin-left:0;
+	}
+
+#topbar ul li a:link, #topbar ul li a:visited, #topbar ul li a:hover{
+	display:block;
+	margin:0;
+	padding:0;
+	color:#DCDCDC;
+	background-color:#001B30;
+	}
+
+#topbar ul ul li a:link, #topbar ul ul li a:visited{
+	border:none;
+	}
+
+#topbar ul li a:hover, #topbar ul li.active a{
+	color:#35A3FD;
+	background-color:#001B30;
+	}
+	
+#topbar ul li li a:link, #topbar ul li li a:visited{
+	width:150px;
+	float:none;
+	margin:0;
+	padding:7px 10px;
+	font-size:12px;
+	font-weight:normal;
+	color:#DCDCDC;
+	background-color:#001B30;
+	}
+	
+#topbar ul li li a:hover{
+	color:#35A3FD;
+	background-color:#001B30;
+	}
+
+#topbar ul ul{
+	z-index:9999;
+	position:absolute;
+	left:-999em;
+	height:auto;
+	width:170px;
+	margin:0;
+	}
+
+#topbar ul ul a{width:140px;}
+
+#topbar ul li:hover ul{left:auto;}
+
+#topbar ul li:hover{position:static;}
+
+#topbar ul li.last{margin-right:0;}
+
+/* ----------------------------------------------Column Navigation-------------------------------------*/
+
+#column .subnav{display:block; width:250px; padding:25px; background-color:#F9F9F9; margin-bottom:30px;}
+
+#column .subnav h2{
+	margin:0 0 20px 0;
+	padding:0 0 14px 0;
+	font-size:20px;
+	font-weight:normal;
+	font-family:Georgia, "Times New Roman", Times, serif;
+	color:#666666;
+	background-color:#F9F9F9;
+	line-height:normal;
+	border-bottom:1px dotted #666666;
+	}
+
+#column .subnav ul{
+	margin:0;
+	padding:0;
+	list-style:none;
+	}
+
+#column .subnav li{
+	margin:0 0 3px 0;
+	padding:0;
+	}
+
+#column .subnav ul ul, #column .subnav ul ul ul, #column .subnav ul ul ul ul, #column .subnav ul ul ul ul ul{border-top:none; padding-top:0;}
+
+#column .subnav a{
+	display:block;
+	margin:0;
+	padding:5px 10px 5px 20px;
+	color:#666666;
+	background:url("../images/blue_file.gif") no-repeat 10px center #F9F9F9;
+	text-decoration:none;
+	border-bottom:1px dotted #666666;
+	}
+
+#column .subnav a:hover{color:#014A81; background-color:#F9F9F9;}
+
+#column .subnav ul ul a, #column .subnav ul ul ul a, #column .subnav ul ul ul ul a, #column .subnav ul ul ul ul ul a{background:url("../images/black_file.gif") no-repeat #F9F9F9;}
+#column .subnav ul ul a{padding-left:40px; background-position:30px center;}
+#column .subnav ul ul ul a{padding-left:50px; background-position:40px center;}
+#column .subnav ul ul ul ul a{padding-left:60px; background-position:50px center;}
+#column .subnav ul ul ul ul ul a{padding-left:70px; background-position:60px center;}
+
+/* ----------------------------------------------Pagination-------------------------------------*/
+
+.pagination{display:block; width:100%; text-align:center; clear:both;}
+.pagination ul{margin:0; padding:0; list-style:none;}
+.pagination li{display:inline;}
+.pagination .next{margin:0;}
+.pagination a{display:inline-block; padding:2px 5px 3px 5px; margin:0 2px 0 0; border:1px solid #B7B7B7;}
+.pagination .current, .pagination .splitter{padding:6px; margin:0 2px 0 0;}
+.wrapper .pagination a:hover, .pagination .current, .pagination .splitter{color:#666666; background-color:#FFFFFF;}

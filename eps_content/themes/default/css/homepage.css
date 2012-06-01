@@ -1,0 +1,103 @@
+/*
+Template Name: easyPartnerShop
+File: Homepage CSS
+Author: Ruben Storm
+Author URI: http://projects.ruben-storm.eu/
+Licence: GPLv3
+*/
+
+#homepage{
+	margin:0;
+	padding:30px 0;
+	border-bottom:1px dotted #BBBBBB;
+	}
+
+#homepage a, #homepage img{
+	border:none;
+	}
+
+#homepage ul, #homepage p{
+	margin:0;
+	padding:0;
+	list-style:none;
+	line-height:normal;
+	}
+
+#homepage p{
+	display:block;
+	margin-bottom:20px;
+	padding-bottom:26px;
+	background:url("../images/shadow.gif") bottom center no-repeat;
+	}
+
+#homepage p, #homepage p img{
+	width:960px;
+	height:360px;
+	}
+
+#homepage li{
+	float:left;
+	margin:0 12px 0 0;
+	}
+
+#homepage li.last{
+	margin-right:0;
+	}
+
+#homepage li img{
+	width:140px;
+	height:80px;
+	padding:4px;
+	border:1px solid #B7B7B7;
+	}
+
+/* ----------------------------------------------Main Info Area-------------------------------------*/
+
+#hpage_info{
+	line-height:1.6em;
+	}
+
+#hpage_info .fl_left{
+	width:690px;
+	}
+
+#hpage_info .fl_right{
+	width:225px;
+	}
+
+#hpage_info h2.title{
+	margin:0 0 30px 0;
+	padding:0;
+	font-size:32px;
+	}
+
+#hpage_info ul, #hpage_info .fl_right p{
+	display:block;
+	width:100%;
+	margin:0;
+	padding:0;
+	list-style:none;
+	}
+
+#hpage_info li{
+	float:left;
+	margin:0 30px 30px 0;
+	}
+
+#hpage_info li.last{
+	margin:0;
+	}
+
+#hpage_info div.imgholder{
+	margin-bottom:8px;
+	padding:4px;
+	border:1px solid #B7B7B7;
+	}
+
+#hpage_info p.name{
+	text-transform:small-caps;
+	/* text-transform:uppercase; */
+	}
+	
+#hpage_info p.readmore{
+	}

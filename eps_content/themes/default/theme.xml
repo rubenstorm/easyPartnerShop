@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this template, choose Tools | Templates
+and open the template in the editor.
+-->
+
+
+<theme>
+    <settings>
+        <name>default</name>
+        <version>0.1</version>
+        <screen>images/shot.jpg</screen>
+        <forVersion>0.0.5</forVersion>
+        <author>Ruben Storm</author>
+        <homepage>http://www.ruben-storm.eu</homepage>
+        <donate>
+            <allow>FALSE</allow>
+            <email>ruben.storm@gmx.de</email>
+            <website>http://projects.ruben-storm.eu</website>
+        </donate>
+        <contact>
+            <email>ruben.storm@gmx.de</email>
+            <street>Untere Hauptstr. 56</street>
+            <city>Remshalden</city>
+            <country>Germany</country>
+        </contact>
+        <moreInformation>http://www.ruben-storm.eu</moreInformation>
+    </settings>
+</theme>

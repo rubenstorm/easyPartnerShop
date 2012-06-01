@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<!--
+Template Name: easyPartnerShop
+File: Homepage CSS
+Author: Ruben Storm
+Author URI: http://projects.ruben-storm.eu/
+Licence: GPLv3
+-->
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="{header.contlang}">
+    <head>
+        <title>{header.title}</title>
+        <style type="text/css" media="screen">
+            <![CDATA[
+            p { color: black; background: white; }
+            a { text-decoration: none; }
+            .center { text-align: center; }
+            ]]>
+        </style>
+        <meta name="keywords" content="{header.keys}" />
+        <meta name="description" content="{header.description}" />
+        
+        <link rel="stylesheet" href="eps_conten/themes/default/css/layout.css" type="text/css" />
+        
+    </head>
+    <body>
+        <div class="wrapper col1">
+            <div id="header" class="clear">
+                <div id="logo">
+                    <h1><a href="http://{shop.host}">{shop.name}</a></h1>
+                    <p>{shop.slogan}</p>
+                </div>
+            </div>
+        </div>
+        <div class="wrapper col2">
+            <div id="breadcrumb">{breadcrumb}</div>
+            <div class="topads" class="clear">
+                <p align="center">{topAds}</p>
+            </div>
+        </div>
+        <div class="wrapper col3">
+            <div id="container" class="clear">
+                <div class="content">
+                    {shopFrame}
+                </div>
+            </div>
+        </div>
+    </body>
+</html>
