@@ -1,7 +1,6 @@
 <?php
 
 /**
-<<<<<<< HEAD
  * @file libShopData.php
  * @brief The libShopData
  * 
@@ -19,26 +18,10 @@
  * 
  * @verbatim
  * 
-=======
- *
- * @name libShopData
- * @package easypshop
- * @subpackage lib
- * @author: Ruben Storm
- * @link http://projects.ruben-storm.eu/easypartnershop/
- * @copyright Copyright (c) 2012, Ruben Storm
- * @link http://www.gnu.org/licenses/gpl.html
- * @version 0.0.5
- * @since Version 0.0.5
- * @license: GNU General Public License 3.0 (GPL) http://www.gnu.org/licenses/gpl.html
- * 
- * 
->>>>>>> 245677b78c7e19d3804cbdbec14b9fbfbaee4933
  * This program is distributed in the hope that it will be useful,
  * but WITHOUT ANY WARRANTY; without even the implied warranty of
  * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
  * GNU General Public License for more details.
-<<<<<<< HEAD
  * @endverbatim
  * 
  * @name libShopData
@@ -278,15 +261,6 @@
  * 
  * The shop is makes the connection to the XML database and loading the required 
  * data. It is loading the shop settings, theme settings and the data for the shop.
-=======
- * 
- *  
- */
-
-/**
- * Description of libShopData
- * Here the shop is loading the data it need to run.
->>>>>>> 245677b78c7e19d3804cbdbec14b9fbfbaee4933
  *
  * @author Ruben Storm
  * @version 0.0.5
@@ -295,7 +269,6 @@
 class libShopData {
     
     /**
-<<<<<<< HEAD
      * @var string $shopFile 
      * @brief Settings file
      * 
@@ -347,24 +320,11 @@ class libShopData {
      * @abstract
      * 
      */
-=======
-     *
-     * The default for the messages and filesystem
-     * @var type 
-     */
-    static private $shopFile = 'eps_content/eps_DB/setup/settings.xml';
-    static private $shopMetaThemeFolder = 'eps_content/themes/';
-    static private $shopThemeFile = '';
-    static private $shopMetaThemeFile = '';
-    static private $errorMessage = 'Parsing your setting gave an error';
-    
->>>>>>> 245677b78c7e19d3804cbdbec14b9fbfbaee4933
     private function __construct(){
         // instanziierung verhindern
     }
     
     /**
-<<<<<<< HEAD
      * @fn getShop()
      * @brief Shop data starter
      * 
@@ -374,11 +334,6 @@ class libShopData {
      * @since Version 0.0.5
      * @author Ruben Storm
      * @return
-=======
-     *
-     * Starting to initialize the shop data system
-     * @return type None
->>>>>>> 245677b78c7e19d3804cbdbec14b9fbfbaee4933
      */
     static public function getShop() {
         // get the shop
@@ -401,7 +356,6 @@ class libShopData {
     }
     
     /**
-<<<<<<< HEAD
      * @fn _getShopTheme()
      * @brief Theme data
      * 
@@ -412,15 +366,6 @@ class libShopData {
      * @author Ruben Storm
      * @return  string  $shop->theme
      *      the name of the theme
-=======
-     *
-     * Get the shop theme, if the shop has a mutli setup. 
-     * 
-     * @return type theme name
-     * @version 0.0.5
-     * @since Version 0.0.2
-     * @author Ruben Storm
->>>>>>> 245677b78c7e19d3804cbdbec14b9fbfbaee4933
      */
     static public function _getShopTheme() {
         // get the shop theme if not default
@@ -439,7 +384,6 @@ class libShopData {
     }
     
     /**
-<<<<<<< HEAD
      * @fn _getShopData()
      * @brief Query the setup
      * 
@@ -449,15 +393,6 @@ class libShopData {
      * @since Version 0.0.3
      * @author Ruben Storm
      * @return
-=======
-     *
-     * Loading the shop setup template and all needed informations
-     * 
-     * @return type None
-     * @version 0.0.5
-     * @since Version 0.0.3
-     * @author Ruben Storm
->>>>>>> 245677b78c7e19d3804cbdbec14b9fbfbaee4933
      */
     static private function _getShopData() {
         // get all the shop data
@@ -491,7 +426,6 @@ class libShopData {
     }
     
     /**
-<<<<<<< HEAD
      * @fn _getShopMeta()
      * @brief Query shop meta
      * 
@@ -501,14 +435,6 @@ class libShopData {
      * @since 0.0.3
      * @author Ruben Storm
      * @return
-=======
-     *
-     * Loading the shop meta
-     * @return type None
-     * @version 0.0.5
-     * @since 0.0.3
-     * @author Ruben Storm
->>>>>>> 245677b78c7e19d3804cbdbec14b9fbfbaee4933
      */
     static private function _getShopMeta() {
         // get the Shop Meta

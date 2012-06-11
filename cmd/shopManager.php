@@ -1,7 +1,6 @@
 <?php
 
 /**
-<<<<<<< HEAD
  * @file shopManager.php
  * @brief The shopManager
  * 
@@ -14,40 +13,20 @@
  * @since Version 0.0.5
  * 
  * @verbatim
-=======
- *
- * @name shopManager
- * @package easypshop
- * @subpackage cmd
- * @author: Ruben Storm
- * @link http://projects.ruben-storm.eu/easypartnershop/
- * @copyright Copyright (c) 2012, Ruben Storm
- * @link http://www.gnu.org/licenses/gpl.html
- * @version 0.0.5
- * @since Version 0.0.5
- * @license: GNU General Public License 3.0 (GPL) http://www.gnu.org/licenses/gpl.html
- * 
->>>>>>> 245677b78c7e19d3804cbdbec14b9fbfbaee4933
  * 
  * This program is distributed in the hope that it will be useful,
  * but WITHOUT ANY WARRANTY; without even the implied warranty of
  * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
  * GNU General Public License for more details.
-<<<<<<< HEAD
  * @endverbatim
  * 
  * @name shopManager
  * @package cmd
-=======
- * 
- *  
->>>>>>> 245677b78c7e19d3804cbdbec14b9fbfbaee4933
  */
 
 
 
 /**
-<<<<<<< HEAD
  * @class shopManager
  * @brief Manager class
  * 
@@ -58,21 +37,10 @@
  * @author Ruben Storm
  * @version 0.0.5
  * @since Version 0.0.5
-=======
- * 
- * Description of shopManager
- * This is the manager from the shop, here is the shop build and then it 
- * makes the output. 
- * No required file in php because all classes get dynamic used over the loader. 
- * 
- * @see sysLoader
- * @author Ruben Storm 
->>>>>>> 245677b78c7e19d3804cbdbec14b9fbfbaee4933
  */
 class shopManager {
     //put your code here
     /**
-<<<<<<< HEAD
      * @var string $errorMessage
      * @brief Error message
      * 
@@ -95,19 +63,10 @@ class shopManager {
      * @author Ruben Storm
      * @abstract
      */
-=======
-     *
-     * The default $errorMessage for the shopManager
-     * @var type 
-     */
-    static private $errorMessage = 'Manager made a booboo';
-    
->>>>>>> 245677b78c7e19d3804cbdbec14b9fbfbaee4933
     private function __construct(){
         // instanziierung verhindern
     }
     /**
-<<<<<<< HEAD
      * @fn static public function eps_register()
      * @brief Register
      * 
@@ -116,13 +75,6 @@ class shopManager {
      * @author Ruben Storm
      * @version 0.0.5
      * @since 0.0.5
-=======
-     *
-     * Register the system and starting the shop
-     * @version 0.0.5
-     * @since 0.0.5
-     * @author Ruben Storm 
->>>>>>> 245677b78c7e19d3804cbdbec14b9fbfbaee4933
      */
     static public function eps_register() {
         /* register everthing what have to be registered */
@@ -135,7 +87,6 @@ class shopManager {
         self::_get_Theme();
     }
     /**
-<<<<<<< HEAD
      * @fn static private function _get_Theme()
      * @brief Printer
      * 
@@ -144,10 +95,6 @@ class shopManager {
      * @author Ruben Storm
      * @version 0.0.5
      * @since 0.0.5
-=======
-     *
-     * Print the screen if all is done 
->>>>>>> 245677b78c7e19d3804cbdbec14b9fbfbaee4933
      */
     static private function _get_Theme() {
         /* get the Shop header */

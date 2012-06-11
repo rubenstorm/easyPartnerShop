@@ -1,7 +1,6 @@
 <?php
 
 /**
-<<<<<<< HEAD
  * @file index.php
  * @brief The index file
  * 
@@ -19,25 +18,11 @@
  * @since Version 0.0.5
  * 
  * @verbatim
-=======
- *
- * @name easyPartnerShop
- * @package easypshop
- * @author: Ruben Storm
- * @link http://projects.ruben-storm.eu/easypartnershop/
- * @copyright Copyright (c) 2012, Ruben Storm
- * @link http://www.gnu.org/licenses/gpl.html
- * @version 0.0.5
- * @since Version 0.0.5
- * @license: GNU General Public License 3.0 (GPL) http://www.gnu.org/licenses/gpl.html
- * 
->>>>>>> 245677b78c7e19d3804cbdbec14b9fbfbaee4933
  * 
  * This program is distributed in the hope that it will be useful,
  * but WITHOUT ANY WARRANTY; without even the implied warranty of
  * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
  * GNU General Public License for more details.
-<<<<<<< HEAD
  * @endverbatim
  * 
  * @see http://yoursl.in/easyPartnerShop Project Homepage
@@ -245,24 +230,12 @@
  * 
  * @var bol true
  *      to start the shop
-=======
- * 
- *  
- */
-
-/**
- * 
- * Register and tells the system that is allowed to start
- * 
- * @var bol 
->>>>>>> 245677b78c7e19d3804cbdbec14b9fbfbaee4933
  * 
  */
 // define('EPS_STOP', true);
 
 
 /**
-<<<<<<< HEAD
  * @property Starter
  * @brief Start the shop
  * 
@@ -270,15 +243,6 @@
  * 
  */
 require('./sysLoader.php');
-=======
- * Start the shop und begin to work
- */
-
-require('./sysLoader.php');
-// require('./eps_settings.php');
-
-// eps_systeme_init();
->>>>>>> 245677b78c7e19d3804cbdbec14b9fbfbaee4933
 
 
 ?>
