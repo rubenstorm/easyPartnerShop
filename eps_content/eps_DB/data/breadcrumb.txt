@@ -1,0 +1,11 @@
+<a href="http://projects.ruben-storm.eu/" target="_blank" title="Projekt Blog von Ruben Storm">Projekte</a> .::. 
+<a href="http://ruben-storm.eu/" target="_blank" title="Blog von Ruben Storm">Blog</a> .::. 
+<a href="http://fotoblog.ruben-storm.eu/" target="_blank" title="Fotoblog von Ruben Storm">Fotoblog</a> .::. 
+<a href="http://games.ruben-storm.eu/" target="_blank" title="Game Blog von Ruben Storm">Games</a> .::. 
+<a href="http://twitter.com/RubensBlog" target="_blank" title="Ruben's Blog auf Twitter">Twitter</a> .::. 
+<a href="http://books.ruben-storm.eu/" title="Ruben's Bookstore">Bookstore</a> .::. 
+<a href="http://dslr.ruben-storm.eu/" title="Ruben's DSLR Shop">DSLR Shop</a> .::. 
+<a href="http://shirts.ruben-storm.eu/" title="Ruben's T-Shirt Shop">T-Shirt Shop</a> .::. 
+<a href="http://mp3.ruben-storm.eu/" title="Ruben's MP3 Shop">MP3 Shop</a> .::. 
+<a href="http://outdoor.ruben-storm.eu/" title="Ruben's Outdoor Shop">Outdoor Shop</a> .::. 
+<a href="http://poster.ruben-storm.eu/" title="Ruben's Poster und Leinwand Shop">Poster & Leinwand Shop</a>

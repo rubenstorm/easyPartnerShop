@@ -1,0 +1,46 @@
+easyPartnerShop
+================
+
+easyPartnerShop is a script that you can install on your webserver and include 
+your partner shop like Amazon
+
+Description
+--------------
+
+With this you can include as many partner shops as you like in one installation 
+on your webspace. It does not matter if Amazon or Spreadshirts. Just configure 
+your shop and you a good to go.
+
+
+License
+--------------
+
+### GNU General Public License 3.0
+
+
+* [GPL](http://www.gnu.org/licenses/gpl.html) -- `GNU General Public License` (http://www.gnu.org/licenses/gpl.html)
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+
+Example Usage
+--------------
+
+Look at the [project Homepage] (http://projects.ruben-storm.eu/easypartnershop/)
+
+For the `README` see
+
+[Blog]: http://projects.ruben-storm.eu/easypartnershop/
+[GIT] https://github.com/rubenstorm/easyPartnerShop
+
+
+### Features
+
+[Blog]: http://projects.ruben-storm.eu/easypartnershop/
+[GIT] https://github.com/rubenstorm/easyPartnerShop
+
+
+

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this template, choose Tools | Templates
+and open the template in the editor.
+-->
+
+
+<shops>
+    <shop>
+        <name>Ruben's Bookstore</name>
+        <host>books.ruben-storm.eu</host>
+        <frameLink>http://astore.amazon.de/power2search-21</frameLink>
+        <owner>Ruben Storm</owner>
+        <slogan>Ruben's Bookstore - Bücher in ca. 1000 Kategorien</slogan>
+        <header>
+            <title>Ruben's Bookstore - Bücher bei books.ruben-storm.eu</title>
+            <contlang>de</contlang>
+            <meta>
+                <descr>Ruben's Bookstore, Bücher bei books.ruben-storm.eu in ca. 1000 Kategorien sortiert. Themen wie z.B. Belletristik, Biografien, Erinnerungen, Business, Karriere, Börse, Geld, Comics, Mangas, Computer, Internet, Erotik, Esoterik, Fachbücher, Fantasy, Science Fiction, Film, Kunst, Kultur, Freizeit, Haus, Garten, Geschenkbücher, Horror, Kalender, Kinder-, Jugendbücher, Kochen, Genießen, Krimis, Thriller, Lernen, Nachschlagen, Musiknoten, Naturwissenschaften, Technik, Politik, Geschichte, Ratgeber</descr>
+                <keywords>books.ruben-storm.eu, Bookstore, books, bücher, Belletristik, Biografien, Erinnerungen, Business, Karriere, Börse, Geld, Comics, Mangas, Computer, Internet, Erotik, Esoterik, Fachbücher, Fantasy, Science Fiction, Film, Kunst, Kultur, Freizeit, Haus, Garten, Geschenkbücher, Horror, Kalender, Kinder-, Jugendbücher, Kochen, Genießen, Krimis, Thriller, Lernen, Nachschlagen, Musiknoten, Naturwissenschaften, Technik, Politik, Geschichte, Ratgeber, Reise, Abenteuer, Religion, Glaube, Sport, Fitness, English Books, Biografische Romane, Dramatik, Gegenwartsliteratur, Historische Krimis, Historische Romane, Humor, Klassiker, Kurzgeschichten, Anthologien, Liebesromane, Lyrik, Märchen, Sagen, Legenden, Film, Fernsehen, Theater, Frauen, Geschichte, Kunst, Architektur, Literatur, Musik, Nach Ländern, Kontinenten, Politik, Reise, Abenteuer, Religion, Soziales, Sport, Weitere Berufe, Themen, Wirtschaft, Wissenschaft, Bewerbung, Bilanzierung, Buchhaltung, Branchen, Berufe, E-Business, Job, Karriere, Kommunikation, Psychologie, Kosten, Controlling, Management, Marketing, Verkauf, Personal, Wirtschaft, Bauen, Immobilien, Börse, Aktien, Geldanlage, Vermögensaufbau, Ratgeber, Steuern, Versicherung, Cartoons, Comics, Comics, Mangas zeichnen, Comics in Mundart, Mangas, Nach Verlagen, Datenbanken, Grafik, Multimedia, Hardware, Technik, IT-Ausbildung, -Berufe, Lösungsbücher für PC-, Videospiele, Mac, Microsoft, Programmierung, Webdesign, Sicherheit, Unix, Linux, Cartoons, Comics, Fotografie, Bildbände, Kalender, Klassiker, Mangas, Romane, Erzählungen, Sex-Ratgeber, Tipps für Lesben, Tipps für Schwule, Astrologie, Mond, Sternzeichen, Baum, Blüte, Edelstein, Energie, Kosmos, Feng Shui, Lehren, Weisheiten, Meditation, Yoga, Tarot, Weissagung, Übersinnliches, Okkultismus, Anglistik, Amerikanistik, Architektur, Biowissenschaften, Chemie, Geowissenschaften, Germanistik, Geschichtswissenschaft, Informatik, Ingenieurwissenschaften, Kunstwissenschaft, Mathematik, Medienwissenschaft, Medizin, Musikwissenschaft, Philosophie, Physik, Astronomie, Psychologie, Recht, Romanistik, Sozialwissenschaft, Wirtschaft, Fantasy, Science Fiction, Vampirromane, Architektur, Ausstellungskataloge, Bühne, Design, Film, Fernsehen, Fotografie, Kulturwissenschaften, Malerei, Skulptur, Medien, Mode, Museum, Musik, Freizeit, Hobby, Garten, Pflanzen, Haus, Haushalt, Haustiere, Spiel, Spaß, Wohnen, Einrichten, Advent, Weihnachten, Alben, Besinnliches, Dank, Erotik, Freundschaft, Geburt, Taufe, Geburtstag, Glück, Erfolg, Gute Wünsche, Hochzeit, Hochzeitstag, Humor, Lebenshilfe, Liebe, Partnerschaft, Nach Personen, Postkarten, Poster, Religion, Spiritualität, Schwangerschaft, Sprichwörter, Aphorismen, Weisheit, Weitere Anlässe, Themen, Advents-, Weihnachtskalender, Architektur, Bastelkalender, Comics, Humor, Erotik, Garten, Blumen, Kalender für Kinder, Kunst, Küche, Landschaften, Natur, Lebenshilfe, Entspannung, Literatur, Länder, Städte, Mond, Esoterik, Musik, Film, Tanz, Religion, Rätsel, Wissen, Sport, Sprachkalender, Tiere, Verkehr, Technik, Beliebte Kinderfiguren, Bilderbücher, Computer, Software, Kalender, Poster, Alben, Kindergeschichten, Lieder, Reime, Nach Ländern, Nach Themen, Romane, Erzählungen, Sachbücher, Sport, Spiel, Spaß, Allgemeines, Grundwissen, Lexika, Alte Kochbücher, Backen, Desserts, Süßspeisen, Diäten, spezielle Ernährungspläne, Einmachen, Einkochen, Erotische Rezepte, Esskulturen, Feinschmecker, Gourmet, Getränke, Gewürze, Kräuter, Kochen für die Familie, Kochen für Feste, Partys, Kochen nach Art der Zubereitung, Kochen nach Ländern, Kochen nach Zutaten, Köche, Kochshows im Fernsehen, Saucen, Dips, Salsa, Single-Küche, Vegetarische, vegane Küche, Vollwertküche, Vorspeisen, Zigarren, mehr, Algerien, Amerika, Australien, Brasilien, China, Deutschland, Dänemark, Finnland, Frankreich, Großbritannien, Irland, Island, Israel, Italien, Japan, Kanada, Norwegen, Russland, Schweden, Schweiz, Sizilien, Spanien, Türkei, Österreich, Allgemeinbildung, Deutsch als Fremdsprache (DAF), Deutsche Sprache, Fremdsprachen, Sprachkurse, Grundlagenwissen, Intelligenztraining, Kataloge, Lexika, Hand-, Jahrbücher, Schule, Unterricht, Lernhilfen, Studienberatung, Werdegang, Wissen nach Themen, Chorwerke, Filmmusik, Gesang, Instrumente, Jazz, Klavierauszüge, Musicals, Opern, Partituren, Pop, Rock, Solokonzerte, Songbooks, Liederbücher, Unterrichtswerke, Volksmusik, Anthropologie, Archäologie, Astronomie, Biologie, Chemie, Geologie, Ingenieurwissenschaft, Technik, Mathematik, Medizin, Physik, Populärwissenschaft, Umwelt, Ökologie, Verschiedenes, Wissenschaftsgeschichte, Biografien, Erinnerungen, Deutsche Geschichte, Deutsche Politik, Epochen, Geschichte allgemein, Geschichte nach Ländern, Geschichte nach Themen, Gesellschaft, Kriege, Krisen, Politik nach Bereichen, Politik nach Ländern, Politikwissenschaft, Terrorismus, Extremismus, Einkaufsführer, Eltern, Kinder, Ernährung, Gesundheit, Medizin, Kommunikation, Lebensführung, Lesben, Schwule, Partnerschaft, Beziehungen, Psychologie, Hilfe, Rechtsratgeber, Abenteuer, Reiseberichte, Aktivurlaub, Camping, Survival, Atlanten, Karten, Pläne, Bildbände, Reisefotografie, Reiseführer nach Ländern, Reiseführer nach Städten, Reiseführer nach Themen, Restaurant-, Hotelguides, Wandern, Radwandern, Buddhismus, Christentum, Theologie, Götter, Mythen, Naturreligionen, Hinduismus, Islam, Judentum, Religion, Gesellschaft, Ballsportarten, Fitness, Kraftsport, Flugsport, Fun-, Trend-, Extremsport, Fußball, Hallen-, Indoorsport, Kampfsport, Selbstverteidigung, Laufen, Leichtathletik, Motorsport, Radsport, Biken, Reiten, Pferdesport, Schießen, Jagen, Angeln, Sport allgemein, Tanzen, Turnen, Gymnastik, US-Sport, Wandern, Bergsteigen, Wassersport, Wintersport</keywords>                
+            </meta>
+        </header>
+        <template>default</template>
+    </shop>
+    <shop>
+        <name>Ruben's DSLR Shop</name>
+        <host>dslr.ruben-storm.eu</host>
+        <frameLink>http://astore.amazon.de/dslrstorm-21</frameLink>
+        <owner>Ruben Storm</owner>
+        <slogan>Ruben's DSLR Shop - Alles über und für die Fotografie</slogan>
+        <header>
+            <title>Ruben's DSLR Shop - dslr.ruben-storm.eu</title>
+            <contlang>de</contlang>
+            <meta>
+                <descr>Ruben's DSLR Shop - Alles über und für die Fotografie. Artikel sortiert in über 100 Kategorien wie z.B. Analoge Kameras, Blitzgeräte, Digitale Bilderrahmen, Digitalkameras, Filmscanner, Fotodrucker, Objektive, Stative, Unterwasserfotografie, Zubehör</descr>
+                <keywords>dslr.ruben-storm.eu, kamera, dslr, Analoge Kameras, Blitzgeräte, Digitale Bilderrahmen, Digitalkameras, Filmscanner, Fotodrucker, Objektive, Stative, Unterwasserfotografie, Zubehör, Bücher, APS-Kameras, Analoge Spiegelreflexkameras, Einwegkameras, Kompakte Systemkameras, Kompaktkameras, Spiegelreflexkameras, Kamera-Objektive, Videoobjektive, Einbein-Stative, Klemm-, Mini-Stative, Stativköpfe, Tripods, Akkus, Ladegeräte, Netzteile, Aufbewahren, Präsentieren, Blitz-Zubehör, Dunkelkammer, Filme, Filter, Fotostudio, Beleuchtung, Kamera-Taschen, Kamerazubehör, Leinwände, Objektivzubehör, Reinigung, Speicherkarten, Taschen-, Gehäuse-Zubehör, Teleskopzubehör</keywords>                
+            </meta>
+        </header>
+        <template>default</template>
+    </shop>
+    <shop>
+        <name>Ruben's T-Shirt Shop</name>
+        <host>shirts.ruben-storm.eu</host>
+        <frameLink>http://rubenstorm.spreadshirt.de/</frameLink>
+        <owner>Ruben Storm</owner>
+        <slogan>Ruben's T-Shirt Shop - T-Shirts und mehr</slogan>
+        <header>
+            <title>Ruben's T-Shirt Shop - T-Shirts und mehr bei shirts.ruben-storm.eu</title>
+            <contlang>de</contlang>
+            <meta>
+                <descr>Ruben's T-Shirt Shop - T-Shirts und mehr bei shirts.ruben-storm.eu - T-Shirts. Tassen und Geschenkartikel</descr>
+                <keywords>shirts.ruben-storm.eu, t-Shirts. T-shirt. Tassen, Baby, Babyartikel, artikel, jacken, jacke, geschenke, geschenk, geschenkartikel, mauspads, untersetzer</keywords>
+            </meta>
+        </header>
+        <template>default</template>
+    </shop>
+    <shop>
+        <name>Ruben's MP3 Shop</name>
+        <host>mp3.ruben-storm.eu</host>
+        <frameLink>http://astore.amazon.de/mp3storm-21</frameLink>
+        <owner>Ruben Storm</owner>
+        <slogan>Ruben's MP3-Download- und Musikshop</slogan>
+        <header>
+            <title>Ruben's MP3-Download- und Musikshop - mp3.ruben-storm.eu</title>
+            <contlang>de</contlang>
+            <meta>
+                <descr>Ruben's MP3-Download- und Musikshop - MP3 Downloads, CD's und DVD's in Kategorien sortiert - Alben, Songs, Musik, Musik-DVDs, Alternative, Blues, Classic Rock, Country, Dance, Electronic und vieles mehr - mp3.ruben-storm.eu</descr>
+                <keywords>download, downloads, mp3, mp3-download, mp3 download, mp3 downloads, musik download, Alben, Songs, Musik, Musik-DVDs, Alternative, Blues, Classic Rock, Country, Dance, Electronic, Diverses, Easy Listening, Folk, Hardrock, Metal, Hip-Hop, Rap, Jazz, Kindermusik, Klassik, Latin Pop, Moderne christliche Musik, Gospel, Musicals, Kabarett, New Age, Meditation, Pop, Soul, Reggae, Rock, Schlager, Volksmusik, Soundtracks, Weltmusik, Klassik, Oper, Ballett, Chormusik, Kammermusik, Komponisten, Konzert, Oper, Operette, Sängerinnen, Sänger, Anton Bruckner, Antonio Vivaldi, Franz Schubert, Georg F. Händel, Giacomo Puccini, Giuseppe Verdi, Igor Strawinsky, Jacques Offenbach, Johann S. Bach, Johann Strauß, Ludwig van Beethoven, Peter Tschaikowsky, Richard Strauss, Richard Wagner, Sergej Prokofjew, Wolfgang Amadeus Mozart, Klavierkonzerte, Symphonik, Violinkonzerte</keywords>
+            </meta>
+        </header>
+        <template>default</template>
+    </shop>
+    <shop>
+        <name>Ruben's Outdoor Shop</name>
+        <host>outdoor.ruben-storm.eu</host>
+        <frameLink>http://astore.amazon.de/outdoorstorm-21</frameLink>
+        <owner>Ruben Storm</owner>
+        <slogan>Ruben's Outdoor-, Camping- und Trekking- Shop</slogan>
+        <header>
+            <title>Ruben's Outdoor Shop - outdoor.ruben-storm.eu</title>
+            <contlang>de</contlang>
+            <meta>
+                <descr>Ruben's Outdoor Shop - Camping, Outdoor, Reise und Trekking Artikel in über 100 Kategoerien Sortiert, wie z.B. Bekleidung, Beleuchtung, Campingküche, Campingmöbel, Erste Hilfe, Sicherheit, Feuerstarter, Feuerzeuge, Flaschen, Trinkbehälter, Filter, GPS-Geräte und viele mehr - outdoor.ruben-storm.eu</descr>
+                <keywords>Outdoor, Trekking, Reise, Camping, Shop, Bekleidung, Beleuchtung, Campingküche, Campingmöbel, Erste Hilfe, Sicherheit, Feuerstarter, Feuerzeuge, Flaschen, Trinkbehälter, Filter, GPS-Geräte, Hand-, Fußwärmer, Kindertragen, Kompasse, Körperpflege, Hygiene, Messer, Werkzeuge, Pfefferspray, KO-Spray, Pflegemittel, Rucksackzubehör, Rucksäcke, Schlafsäcke, Matratzen, Kissen, Schuhe, Wanderstöcke, Wetter, Sichtschutz, Zelt-Kleinteile, Zelte, Blusen, Funktionsjacken, Funktionsshirts, Handschuhe, Hemden, Hosen, Mützen, Hüte, Caps, Pullover, Sweatshirts, Regenbekleidung, Rollkragen, Socken, Strümpfe, Stirnbänder, Sonnenblenden, Masken, Tights, Westen, Laternen, Laternenzubehör, Stirnlampen, Taschenlampen, Campingkocher, Gefriergetrocknetes Essen, Geschirr, Kaffee-, Teekannen, Kocherzubehör, Kochgeräte, Kochgeschirr, Kühlboxen, Kühlboxzubehör, Töpfe, Pfannen, Feldbetten, Hängematten, Hocker, Stühle, Tische, Behälter, Kanister, Flachmänner, Trinkflaschen, Wasserentkeimer, Wasserfilter, Fußwärmer, Handwärmer, Camping-Toiletten, Handtücher, Solarduschen, Campingäxte, Gürtelmesser, Kindermesser, Messeretuis, Taschen, Messerschärfer, Multitools, Schaufeln, Sägen, Taschen-, Klappmesser, Daypacks, Rahmenrucksäcke, Trekkingrucksäcke über 45L, Wanderrucksäcke bis 45L, Decken, Isomatten, Kissen, Luftmatratzen, Schlafsäcke, Selbstaufblasbare Matten, Zubehör, Pavillons, Regendächer, Sichtschutz, Sonnensegel, Strandmuscheln, Vordächer, Vorzelte, Zubehör, Abspanngummi, Hammer, Werkzeuge, Heringe, Moskitonetze, Spannleinen, Zeltböden, Zeltgestänge</keywords>
+            </meta>
+        </header>
+        <template>default</template>
+    </shop>
+    <shop>
+        <name>Ruben's Poster und Leinwand Shop</name>
+        <host>poster.ruben-storm.eu</host>
+        <frameLink>http://rubenstorm.fotoportopro.de/</frameLink>
+        <owner>Ruben Storm</owner>
+        <slogan>Fotos und Leinwände für Ihr neues Zuhause</slogan>
+        <header>
+            <title>Ruben's Poster und Leinwand Shop - poster.ruben-storm.eu</title>
+            <contlang>de</contlang>
+            <meta>
+                <descr>Bestellen Sie Poster oder Leinwände für Ihre Wände, die einfach so kahl sind - outdoor.ruben-storm.eu</descr>
+                <keywords>Poster, Leinwand, Wildlife, Enten, Gans, Schwan, Bären, Bär, Blumen, Architektur</keywords>
+            </meta>
+        </header>
+        <template>default</template>
+    </shop>
+</shops>
