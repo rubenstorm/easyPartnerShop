@@ -1,6 +1,7 @@
 <?php
 
 /**
+<<<<<<< HEAD
  * @file libTheme.php
  * @brief The libTheme
  * 
@@ -14,18 +15,38 @@
  * 
  * @verbatim
  * 
+=======
+ *
+ * @name libTheme
+ * @package easypshop
+ * @subpackage lib
+ * @author: Ruben Storm
+ * @link http://projects.ruben-storm.eu/easypartnershop/
+ * @copyright Copyright (c) 2012, Ruben Storm
+ * @link http://www.gnu.org/licenses/gpl.html
+ * @version 0.0.5
+ * @since Version 0.0.5
+ * @license: GNU General Public License 3.0 (GPL) http://www.gnu.org/licenses/gpl.html
+ * 
+ * 
+>>>>>>> 245677b78c7e19d3804cbdbec14b9fbfbaee4933
  * This program is distributed in the hope that it will be useful,
  * but WITHOUT ANY WARRANTY; without even the implied warranty of
  * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
  * GNU General Public License for more details.
+<<<<<<< HEAD
  * @endverbatim
  * 
  * @name libTheme
  * @package lib
+=======
+ * 
+>>>>>>> 245677b78c7e19d3804cbdbec14b9fbfbaee4933
  *  
  */
 
 /**
+<<<<<<< HEAD
  * @page ThemeMaker Make Your Theme
  * @brief How to make your own theme
  * 
@@ -70,6 +91,9 @@
  * @class libTheme
  * @brief Theme library
  * 
+=======
+ * Description of libTheme
+>>>>>>> 245677b78c7e19d3804cbdbec14b9fbfbaee4933
  * The theme driver, for version 0.0.5 totally new made up, so old themes will 
  * not run anymore in this version. 
  * The new theme driver runs with a XHTML theme system and has a new spaceholder
@@ -82,6 +106,7 @@
 class libTheme {
     
     /**
+<<<<<<< HEAD
      * @var string $themeRootFolder
      * 
      */
@@ -138,6 +163,23 @@ class libTheme {
      * @fn __construct()
      * @brief The constractor
      * 
+=======
+     *
+     * Defaul messages and filesystem for this class
+     * @var type 
+     */
+    static private $themeRootFolder = 'eps_content/themes/';
+    static private $themeFolder = '';
+    static private $themeFileName = 'theme.xml';
+    static private $themeTemplateFileName = 'template_1.xhtml';
+    static private $themeFile = '';
+    static private $themeTemplateFile = '';
+    static private $errorMessage = 'Your Theme has an error';
+    static private $themeTopAds = 'eps_content/eps_DB/data/topads.txt';
+    static private $themeBreadcrumbs = 'eps_content/eps_DB/data/breadcrumb.txt';
+    /**
+     *
+>>>>>>> 245677b78c7e19d3804cbdbec14b9fbfbaee4933
      * the _construct function for libTheme
      */
     private function __construct(){
@@ -145,6 +187,7 @@ class libTheme {
     }
     
     /**
+<<<<<<< HEAD
      * @fn mk_theme()
      * @brief Theme maker
      * 
@@ -154,6 +197,11 @@ class libTheme {
      * @version 0.0.5
      * @since 0.0.5
      * @return
+=======
+     *
+     * Make the theme, this has to be twice taken in the driver
+     * @return type None
+>>>>>>> 245677b78c7e19d3804cbdbec14b9fbfbaee4933
      */
     static public function mk_theme() {
         
@@ -169,6 +217,7 @@ class libTheme {
     }
     
     /**
+<<<<<<< HEAD
      * @fn getThemeFilesystem()
      * @brief Filesystem Controler
      * 
@@ -179,6 +228,12 @@ class libTheme {
      * @since 0.0.5
      * @return  method  $template
      *      The method to keep going
+=======
+     *
+     * private filesystem controler
+     * 
+     * @return type the template for printout
+>>>>>>> 245677b78c7e19d3804cbdbec14b9fbfbaee4933
      */
     static private function getThemeFilesystem() {
         // control the filesystem for the themes
@@ -206,6 +261,7 @@ class libTheme {
     }
     
     /**
+<<<<<<< HEAD
      * @fn _getThemeFolder ()
      * @brief Theme folder
      * 
@@ -216,6 +272,11 @@ class libTheme {
      * @since 0.0.5
      * @return  string  self::$themeFolder
      *      the path of the theme folder
+=======
+     *
+     * Initalize the theme folder
+     * @return type the path of the theme folder
+>>>>>>> 245677b78c7e19d3804cbdbec14b9fbfbaee4933
      */
     static private function _getThemeFolder () {
         // get the name of the theme
@@ -227,6 +288,7 @@ class libTheme {
     }
     
     /**
+<<<<<<< HEAD
      * @fn _getThemeName ()
      * @brief Theme Requester
      * 
@@ -237,6 +299,11 @@ class libTheme {
      * @since 0.0.5
      * @return  string  USE_THEME
      *      the name of the used theme
+=======
+     *
+     * Check what theme is requsted and return it
+     * @return string the name of the used theme
+>>>>>>> 245677b78c7e19d3804cbdbec14b9fbfbaee4933
      */
     static private function _getThemeName () {
         if (SHOP_THEME_SETTINGS == 1) {
@@ -250,6 +317,7 @@ class libTheme {
     }
 
     /**
+<<<<<<< HEAD
      * @fn _themeParser()
      * @brief XHTML Parser
      * 
@@ -260,6 +328,11 @@ class libTheme {
      * @since 0.0.5
      * @return  string  $theme
      *      the parsed theme
+=======
+     *
+     * Parser for the XHTML theme system
+     * @return type the parsed theme
+>>>>>>> 245677b78c7e19d3804cbdbec14b9fbfbaee4933
      */
     static private function _themeParser() {
         /* making the theme header */
@@ -272,6 +345,7 @@ class libTheme {
     }
     
     /**
+<<<<<<< HEAD
      * @fn _themeReplacer($template)
      * @brief Theme parser
      * 
@@ -284,6 +358,12 @@ class libTheme {
      *      the array with the theme
      * @return  string   $template
      *      the finished theme
+=======
+     *
+     * Work over the theme and make it ready for printout
+     * @param type $template
+     * @return type the finished theme
+>>>>>>> 245677b78c7e19d3804cbdbec14b9fbfbaee4933
      */
     static private function _themeReplacer($template) {
         // replace the conten
@@ -291,6 +371,7 @@ class libTheme {
     }
     
     /**
+<<<<<<< HEAD
      * @fn _themeSuchmuster ()
      * @brief Placeholders
      * 
@@ -302,6 +383,14 @@ class libTheme {
      * @return  array   $suchmuster
      *      the spaceholders
      * 
+=======
+     *
+     * the array for the spaceholder
+     * @return string the spaceholders
+     * @version 0.0.5
+     * @since 0.0.1
+     * @author Ruben Storm
+>>>>>>> 245677b78c7e19d3804cbdbec14b9fbfbaee4933
      */
     static private function _themeSuchmuster () {
         $suchmuster = array();
@@ -324,6 +413,7 @@ class libTheme {
     }
     
     /**
+<<<<<<< HEAD
      * @fn _themeErsetzungen()
      * @brief Replacements
      * 
@@ -334,6 +424,14 @@ class libTheme {
      * @since 0.0.1
      * @return type the data for spaceholders
      * 
+=======
+     *
+     * Second array for the spaceholder system, includes the data
+     * @return type the data for spaceholders
+     * @version 0.0.5
+     * @since 0.0.1
+     * @author Ruben Storm
+>>>>>>> 245677b78c7e19d3804cbdbec14b9fbfbaee4933
      */
     static private function _themeErsetzungen() {
         $ersetzungen = array();
@@ -357,6 +455,7 @@ class libTheme {
     
     
     /**
+<<<<<<< HEAD
      * @fn _getTopAds()
      * @brief Adds maker
      * 
@@ -367,6 +466,11 @@ class libTheme {
      * @since 0.0.5
      * @return  string  $data
      *      code for the topads
+=======
+     *
+     * Making the topAds in the theme
+     * @return type code for the topads
+>>>>>>> 245677b78c7e19d3804cbdbec14b9fbfbaee4933
      */
     static private function _getTopAds() {
         $shopinfo = '';
@@ -381,6 +485,7 @@ class libTheme {
     }
     
     /**
+<<<<<<< HEAD
      * @fn _getBreadcrumbs()
      * @brief Breadcrumbs
      * 
@@ -391,6 +496,11 @@ class libTheme {
      * @since 0.0.5
      * @return  string  $data
      *      the links
+=======
+     *
+     * Make the links on top, if requested in the theme
+     * @return type the links
+>>>>>>> 245677b78c7e19d3804cbdbec14b9fbfbaee4933
      */
     static private function _getBreadcrumbs() {
         if (file_exists(self::$themeBreadcrumbs)) {
@@ -400,6 +510,7 @@ class libTheme {
     }
    
     /**
+<<<<<<< HEAD
      * @fn _makeInformation()
      * @brief System Informations
      * 
@@ -411,6 +522,11 @@ class libTheme {
      * @since 0.0.5
      * @return  string  $shopinfo
      *      the required information
+=======
+     *
+     * Make system information
+     * @return string the required information
+>>>>>>> 245677b78c7e19d3804cbdbec14b9fbfbaee4933
      */
     static private function _makeInformation() {
         if (SHOW_EPS_INFO == 1) {

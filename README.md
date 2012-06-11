@@ -66,6 +66,7 @@ None yet
 Changelog
 --------------
 
+<<<<<<< HEAD
 ### 0.0.6
  * Better documentation
  * Code cleanup 
@@ -73,6 +74,8 @@ Changelog
  * body.xml deleted, no need anymore
  * Added a Logo
 
+=======
+>>>>>>> 245677b78c7e19d3804cbdbec14b9fbfbaee4933
 ### 0.0.5
 June 1st, 2012
  * First public Release
@@ -86,12 +89,15 @@ June 1st, 2012
 Upgrade Notice
 --------------
 
+<<<<<<< HEAD
 ### 0.0.6
 * Important update, please see CHANGELOG and the now available documentation 
 How to install, how to setup and how to make your themes in a short discription
 * Documentation is on the ApiDocs Server or in the distribution in the folder DOCS 
 you will find a PDF File
 
+=======
+>>>>>>> 245677b78c7e19d3804cbdbec14b9fbfbaee4933
 ### 0.0.5
 
 * Important to upgrade, code changed a lot. I overworked the code and 

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this template, choose Tools | Templates
+and open the template in the editor.
+-->
+
+
+<theme>
+    <temp>
+        <body>
+            <div class="wrapper col1"> 
+                <div id="header" class="clear">
+                    <div id="logo">
+                        <h1><a href="http://{shop.host}">{shop.owner}</a></h1>
+                        <p>{shop.slogan}</p>
+                    </div>
+                </div>
+            </div>
+            <div class="wrapper col2">
+                <div id="breadcrumb">
+                    <div class="breadcrumbs">
+                        <a href="http://blog.ruben-storm.eu/" target="_blank" title="Blog von Ruben Storm">Blog</a>
+                    </div>
+                    <div class="topads">
+                        <center>{topads.google.adsense}</center>
+                    </div>
+                </div>
+            </div>
+            <div class="wrapper col3">
+                <div id="container" class="clear">
+                    <div class="content">
+                        <center>
+                            <shopframe>{shopFrame}</shopframe>
+                        </center>
+                    </div>
+                </div>
+            </div>
+        </body>
+    </temp>
+</theme>

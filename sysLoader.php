@@ -1,6 +1,7 @@
 <?php
 
 /**
+<<<<<<< HEAD
  * @file sysLoader.php
  * @brief The sysLoader
  * 
@@ -13,11 +14,25 @@
  * @since Version 0.0.5
  * 
  * @verbatim
+=======
+ *
+ * @name sysLoader
+ * @package easypshop
+ * @author: Ruben Storm
+ * @link http://projects.ruben-storm.eu/easypartnershop/
+ * @copyright Copyright (c) 2012, Ruben Storm
+ * @link http://www.gnu.org/licenses/gpl.html
+ * @version 0.0.5
+ * @since Version 0.0.5
+ * @license: GNU General Public License 3.0 (GPL) http://www.gnu.org/licenses/gpl.html
+ * 
+>>>>>>> 245677b78c7e19d3804cbdbec14b9fbfbaee4933
  * 
  * This program is distributed in the hope that it will be useful,
  * but WITHOUT ANY WARRANTY; without even the implied warranty of
  * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
  * GNU General Public License for more details.
+<<<<<<< HEAD
  * @endverbatim
  * 
  * @see http://projects.ruben-storm.eu/easypartnershop/ Project Page
@@ -25,10 +40,14 @@
  * 
  * @name sysLoader
  * @package easypshop
+=======
+ * 
+>>>>>>> 245677b78c7e19d3804cbdbec14b9fbfbaee4933
  *  
  */
 
 /**
+<<<<<<< HEAD
  * @property INCLUDEBASE
  * @brief Define the INCLUDEBASE
  * 
@@ -38,11 +57,16 @@
  * @author Ruben Storm
  * @version 0.0.5
  * @since Version 0.0.5
+=======
+ *
+ * Set the include Base to the Document Root  
+>>>>>>> 245677b78c7e19d3804cbdbec14b9fbfbaee4933
  */
 define('INCLUDEBASE', realpath($_SERVER['DOCUMENT_ROOT']));
 
 
 /**
+<<<<<<< HEAD
  * @property Requires
  * @brief Require settings
  * 
@@ -54,12 +78,17 @@ define('INCLUDEBASE', realpath($_SERVER['DOCUMENT_ROOT']));
  * 
  * @author Ruben Storm
  * @see eps_settings
+=======
+ *
+ * Require the settings file 
+>>>>>>> 245677b78c7e19d3804cbdbec14b9fbfbaee4933
  */
 require('./eps_settings.php');
 
 
 
 /**
+<<<<<<< HEAD
  * @class sysLoader
  * @brief The system loader
  * 
@@ -86,12 +115,21 @@ class sysLoader {
      * @author Ruben Storm
      * @abstract
      */
+=======
+ *
+ * @since Version 0.0.5
+ * @author Ruben Storm 
+ */
+class sysLoader {
+    
+>>>>>>> 245677b78c7e19d3804cbdbec14b9fbfbaee4933
     private function __construct(){
         // instanziierung verhindern
         
     }
     
     /**
+<<<<<<< HEAD
      * @fn init($name)
      * @brief Entry for autoloader
      * 
@@ -106,6 +144,13 @@ class sysLoader {
      *      the name of the class to load
      * @return  string  $file 
      *      the file with path, where to find the requested class
+=======
+     *
+     * INIT, required by the autoloader
+     * 
+     * @param type $name
+     * @return string 
+>>>>>>> 245677b78c7e19d3804cbdbec14b9fbfbaee4933
      */
     public static function init($name) {
         // check the classfile, if exists
@@ -124,6 +169,7 @@ class sysLoader {
 
 
 /**
+<<<<<<< HEAD
  * @fn __autoload($name)
  * @brief Autoloader
  * 
@@ -139,6 +185,13 @@ class sysLoader {
  * @param   string    $name
  *      the name of the class to load
  * @return 
+=======
+ *
+ * This is the autoloader, here all classes gets automatic loaded
+ * 
+ * @param type $name
+ * @return type 
+>>>>>>> 245677b78c7e19d3804cbdbec14b9fbfbaee4933
  */
 function __autoload($name) {
     $includefile = sysLoader::init($name);
@@ -158,6 +211,7 @@ function __autoload($name) {
 
 
 /**
+<<<<<<< HEAD
  * @property eps_register
  * @brief Start the Shop
  * 
@@ -166,6 +220,10 @@ function __autoload($name) {
  * @author Ruben Storm
  * @version 0.0.5
  * @since Version 0.0.5
+=======
+ *
+ * Start the Shop 
+>>>>>>> 245677b78c7e19d3804cbdbec14b9fbfbaee4933
  */
 shopManager::eps_register();
 

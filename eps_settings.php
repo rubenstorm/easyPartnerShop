@@ -1,6 +1,7 @@
 <?php
 
 /**
+<<<<<<< HEAD
  * @file eps_settings.php
  * @brief Settings file
  * 
@@ -17,11 +18,25 @@
  * @since Version 0.0.5
  * 
  * @verbatim
+=======
+ *
+ * @name eps_settings
+ * @package easypshop
+ * @author: Ruben Storm
+ * @link http://projects.ruben-storm.eu/easypartnershop/
+ * @copyright Copyright (c) 2012, Ruben Storm
+ * @link http://www.gnu.org/licenses/gpl.html
+ * @version 0.0.5
+ * @since Version 0.0.5
+ * @license: GNU General Public License 3.0 (GPL) http://www.gnu.org/licenses/gpl.html
+ * 
+>>>>>>> 245677b78c7e19d3804cbdbec14b9fbfbaee4933
  * 
  * This program is distributed in the hope that it will be useful,
  * but WITHOUT ANY WARRANTY; without even the implied warranty of
  * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
  * GNU General Public License for more details.
+<<<<<<< HEAD
  * @endverbatim
  * 
  * @see http://yoursl.in/easyPartnerShop Project Page
@@ -91,10 +106,31 @@
  * @author Ruben Storm
  * @version 0.0.5
  * 
+=======
+ * 
+ *  
+ */
+
+/**
+ *
+ * This is the setup file, here you have to set up your shop. Please make sure 
+ * you have everything setup right, so the shop can work. 
+ * 
+ */
+
+
+/**
+ *
+ * Define the name of the Shop Theme, it is the same name as the foldername of 
+ * the themefolder. 
+ * 
+ * This is only used if "SHOP_THEME_SETTINGS" is set to 0
+>>>>>>> 245677b78c7e19d3804cbdbec14b9fbfbaee4933
  */
 define('SHOP_THEME', 'default');
 
 /**
+<<<<<<< HEAD
  * @property SHOP_THEME_SETTINGS
  * @brief Theme settings
  * 
@@ -129,12 +165,28 @@ define('SHOP_THEME', 'default');
  * @warning If you turn this to 1, make sure you have the theme setup in the XML file
  * @author Ruben Storm
  * @version 0.0.5
+=======
+ *
+ * If you want to use the theme that is defined in the settings file, then set 
+ * the "SHOP_THEME_SETTINGS" to 1
+ *
+ * Default ist that all shops have the same theme. With this you can change it. 
+ *
+ * define('SHOP_THEME_SETTINGS', 0); all shops will use the same theme. The 
+ * theme is set in define('SHOP_THEME', 'default');
+ *
+ * define('SHOP_THEME_SETTINGS', 1); every shop has a own theme, the settings for 
+ * "SHOP_THEME" is ignored and you have to set up every theme in the special 
+ * shop file
+ * 
+>>>>>>> 245677b78c7e19d3804cbdbec14b9fbfbaee4933
  */
 define('SHOP_THEME_SETTINGS', 0);
 
 
 
 /**
+<<<<<<< HEAD
  * @property SHOP_LANG
  * @brief Shop language
  * 
@@ -152,11 +204,23 @@ define('SHOP_THEME_SETTINGS', 0);
  * @bug Not implemented in this version, the coding is not working
  * @todo make or find a list with posix locale for example, not used in Version 0.0.5, implement in next version
  * @version 0.0.5
+=======
+ *
+ * In this section you set up the language of your shop. The default is german, 
+ * for german language it is de_DE, see the default settings 
+ * define("SHOP_LANG", "de_DE"); 
+ *
+ * For more Information about language settings look at the wikipedia website.
+ * @see http://projects.ruben-storm.eu/easypartnershop/
+ * @todo make or find a list with posix locale for example
+ * @todo not used in Version 0.0.5, implement in next version
+>>>>>>> 245677b78c7e19d3804cbdbec14b9fbfbaee4933
  */
 define('SHOP_LANG', 'de_DE');
 
 
 /**
+<<<<<<< HEAD
  * @property SHOW_EPS_INFO
  * @brief Set the shop information
  * 
@@ -183,6 +247,11 @@ define('SHOP_LANG', 'de_DE');
  * @attention Would be nice if you support me and let it on 1, but you can set it on 0, if you don't want to show it
  * @author Ruben Storm
  * @version 0.0.5
+=======
+ *
+ * Show the Information about the Project, if you like to support it. 
+ * Default is 1, set it to 0 if you dont want to show 
+>>>>>>> 245677b78c7e19d3804cbdbec14b9fbfbaee4933
  */
 define('SHOW_EPS_INFO', 1);
 
