@@ -25,8 +25,8 @@
  * GNU General Public License for more details.
  * @endverbatim
  * 
- * @see http://yoursl.in/easyPartnerShop Project Homepage
- * @see http://yoursl.in/GPL License
+ * @see http://j.mp/easyPartnerShop Project Homepage
+ * @see http://j.mp/GPL-v3 License
  * @package easypshop
  * @name easyPartnerShop
  * 
@@ -72,7 +72,7 @@
  * @section main_license License
  * The shop license.
  * 
- * @li GNU General Public License 3.0 http://yoursl.in/GPL
+ * @li GNU General Public License 3.0 http://j.mp/GPL-v3
  * 
  * @verbatim
  * 
@@ -174,7 +174,9 @@
  * @author Ruben Storm
  * @version 0.0.6
  * @since Version 0.0.6
- * @see http://yoursl.in/epsIssuess GitHub issuess
+ * @see http://j.mp/ePS-Issues GitHub issuess
+ * @see http://j.mp/easyPartnerShop Project Homepage & Download
+ * @see http://j.mp/GPL-v3 License
  * 
  */
 
@@ -213,7 +215,7 @@
  * @copyright Copyright (c) 2012, Ruben Storm
  * @version 0.0.6
  * @since Version 0.0.6
- * @see http://yoursl.in/BS5V4V Current CHANGELOG
+ * @see http://j.mp/ePS-Commits Current CHANGELOG
  * 
  */
 

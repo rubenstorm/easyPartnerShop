@@ -24,8 +24,8 @@
  * GNU General Public License for more details.
  * @endverbatim
  * 
- * @see http://yoursl.in/easyPartnerShop Project Page
- * @see http://yoursl.in/GPL License
+ * @see http://j.mp/easyPartnerShop Project Page
+ * @see http://j.mp/GPL-v3 License
  * @name eps_settings
  * @package easypshop
  * 

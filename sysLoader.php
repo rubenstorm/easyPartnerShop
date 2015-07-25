@@ -20,8 +20,8 @@
  * GNU General Public License for more details.
  * @endverbatim
  * 
- * @see http://projects.ruben-storm.eu/easypartnershop/ Project Page
- * @see http://www.gnu.org/licenses/gpl.html License
+ * @see http://j.mp/easyPartnerShop Project Page
+ * @see http://j.mp/GPL-v3 License
  * 
  * @name sysLoader
  * @package easypshop

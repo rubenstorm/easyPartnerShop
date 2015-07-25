@@ -52,9 +52,9 @@
  * 
  * @attention The filenames are very important, dont change them
  * 
- * @see http://yoursl.in/epsGitHub GitHub Repo
- * @see http://yoursl.in/epsThemeXML Theme Settings File
- * @see http://yoursl.in/epsTemplateXHTML Template File
+ * @see https://github.com/rubenstorm/easyPartnerShop GitHub Repo
+ * @see http://j.mp/easyPartnerShop Project Page
+ * @see http://j.mp/ePS-Issues Issues
  * 
  * 
  * 
@@ -372,7 +372,7 @@ class libTheme {
         $shopinfo = '';
         if (file_exists(self::$themeTopAds)) {
             if (SHOW_EPS_INFO == 1) {
-                $shopinfo = '<p align="right">&nbsp;<a href="http://projects.ruben-storm.eu/easypartnershop/" target="_blank" title="easyPartnerShop Project"><em>Powered by easyPartnerShop&copy;</em></a>&nbsp;</p>';
+                $shopinfo = '<p align="right">&nbsp;<a href="http://j.mp/easyPartnerShop" target="_blank" title="easyPartnerShop Project"><em>Powered by easyPartnerShop&copy;</em></a>&nbsp;</p>';
             }
             $data = file_get_contents(self::$themeTopAds);
         }
@@ -415,7 +415,7 @@ class libTheme {
     static private function _makeInformation() {
         if (SHOW_EPS_INFO == 1) {
             $shopinfo = '<div style="background-color: grey; color: white; line-height: 18pt; font-size: 16pt;">' .
-                    '<p align="center">&copy; <a href="http://projects.ruben-storm.eu/easypartnershop/" target="_blank" title="easyPartnerShop Project" style="color: white;">' .
+                    '<p align="center">&copy; <a href="http://j.mp/easyPartnerShop" target="_blank" title="easyPartnerShop Project" style="color: white;">' .
                     '<em>Powered by easyPartnerShop</em></a></p>' .
                     '</div>' .
                     '</body>';
