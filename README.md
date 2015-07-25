@@ -17,7 +17,7 @@ License
 ### GNU General Public License 3.0
 
 
-* [GPL](http://www.gnu.org/licenses/gpl.html) -- `GNU General Public License` (http://www.gnu.org/licenses/gpl.html)
+* [GPL](http://j.mp/GPL-v3) -- `GNU General Public License` [www.gnu.org/licenses/gpl.html](http://www.gnu.org/licenses/gpl.html)
 
 This program is distributed in the hope that it will be useful,
 but WITHOUT ANY WARRANTY; without even the implied warranty of
@@ -28,7 +28,7 @@ GNU General Public License for more details.
 Example Usage
 --------------
 
-Look at the [project Homepage] (http://projects.ruben-storm.eu/easypartnershop/)
+Look at the [project Homepage](http://j.mp/easyPartnerShop)
 
 
 
@@ -49,8 +49,8 @@ design or every shop with his own
 Installation
 --------------
 
-[Blog]: http://projects.ruben-storm.eu/easypartnershop/
-Todo, comming soon
+* Go to [Project Page](http://j.mp/easyPartnerShop)
+* Todo, comming soon
 
 
 
@@ -110,7 +110,10 @@ made it allmost new.
 More informations
 ------------
 
-[Blog]: http://projects.ruben-storm.eu/easypartnershop/
-[GNU General Public License]: http://www.gnu.org/licenses/gpl.html
+* [Project Page](http://j.mp/easyPartnerShop)
+* [GNU General Public License](http://j.mp/GPL-v3)
+* [Donate](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=23GNCACUDGTFN)
+* [Spende](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=NZYYPCZN4L8RU) 
 
 
+##### End of Document
